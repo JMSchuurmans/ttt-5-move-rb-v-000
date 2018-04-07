@@ -15,3 +15,5 @@ index = input_to_index(string)
 move(board, index, value)
 
 display_board(board)
+
+end
